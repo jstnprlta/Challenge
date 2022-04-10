@@ -7,7 +7,6 @@
   <li> added alt attributes.
   <li> added a name to webpage.
   <li> links to images work.
-  <li> removed repeated code in the css file.
   <li> https://jstnprlta.github.io/Challenge/
     
   <img width="1440" alt="Screen Shot 2022-04-07 at 8 51 09 PM" src="https://user-images.githubusercontent.com/100394905/162596624-cf1e9f6a-666d-4c7c-9946-762227ba2a06.png">
